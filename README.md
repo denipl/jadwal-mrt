@@ -1,4 +1,4 @@
-API implementation MRT Mengunakan Framework Gin golang
+API implementation jadwal MRT Mengunakan Framework Gin golang
 
 
 
