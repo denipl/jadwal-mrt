@@ -143,8 +143,4 @@ JSON
     "message": "Station not found",
     "data": null
 }
-Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork repositori, buat branch baru untuk fitur Anda, lalu kirim pull request.
 
-Lisensi
-Proyek ini dilisensikan di bawah MIT License.
