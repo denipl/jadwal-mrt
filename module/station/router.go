@@ -3,7 +3,7 @@ package station
 import (
 	"net/http"
 
-	"github.com/denipl/jadwal-mrt.git/modules/common/response"
+	"github.com/denipl/jadwal-mrt.git/module/common/response"
 	"github.com/gin-gonic/gin"
 )
 

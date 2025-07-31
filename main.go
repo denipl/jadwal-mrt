@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/denipl/jadwal-mrt.git/modules/station"
+	"github.com/denipl/jadwal-mrt.git/module/station"
 	"github.com/gin-gonic/gin"
 )
 func main() {
